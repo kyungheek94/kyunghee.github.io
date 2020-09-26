@@ -1,12 +1,10 @@
 ---
-title: "알고리즘 week 1"
-date: "2020-09-20"
-tags: ["algorithm"]
+title: "FAR 1"
+date: "2020-09-25"
+tags: ["CPA","FAR","FAR2020"]
 ---
 
-# UNION-FIND
-최소 선형트리 알고리즘의 서브 루틴
-
+# FAR
 
 | Function        | Description               |
 | - | - |
